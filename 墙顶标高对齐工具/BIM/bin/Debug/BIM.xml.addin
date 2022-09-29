@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>定制功能</Name>
+    <Assembly>BIM.xml\BIM.dll</Assembly>
+    <ClientId>46c306c3-3956-4184-9df1-545699ce5ab8</ClientId>
+    <FullClassName>BIM.App</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>@JGSteel.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
